@@ -13,9 +13,9 @@ https://passport.yandex.com/auth?origin=translate&retpath=https%3A%2F%2Ftranslat
 Steps:
 1. Clone this repo.
 2. Create a config folder in root.
-3. Create config.js file and incude the following..
+3. Create config.js file inside of config folder and incude the following..
 
-API_KEY = "Your API Key that you received from Yandex".
+API_KEY = "Your API Key that you received from Yandex"
 
 
 4. Run it locally, translate to and from over five different languages!
